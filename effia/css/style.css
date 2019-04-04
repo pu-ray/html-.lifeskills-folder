@@ -1,0 +1,136 @@
+html{background-color:white;
+
+}
+
+
+
+}
+body{
+	width:1460px;
+}
+
+
+table{
+	border:2px solid white;
+	border-collapse: collapse;
+	background-color:blue;
+	font-size:40px;
+}
+th{border:1px solid white;
+background-color: white;}
+
+td{border:1px solid white;}
+
+/*nav{
+	border:dotted;*/
+}
+h1{
+	background-color: white;
+	text-align: center;
+	font-size:100px;
+}
+a:hover{background-color:red
+	border:dotted;
+}
+
+}
+.panel {
+	background -color:blue;
+	float:left;
+}
+
+}
+
+.wan img{
+	float:right;
+}
+body{
+	font-family:arial;
+	padding:20px;
+	background: #f1f1f1;
+}
+
+.header{
+	padding:20px;
+	font-size: 30px;
+	text-align: center;
+	background:white;
+}
+.left column{
+	float:left;
+}
+
+.right column{
+	
+	float:left;
+	width:25%;
+	padding-left: 20px;
+}
+
+
+}
+
+.card{
+	background-color:white;
+	padding:20px;
+	margin-top:20px;
+}
+
+.row.after {
+	content: "";
+	display:table;
+	clear:both;
+
+}
+h1{
+	background-color :blue;
+}
+
+
+h5{background -color:blue;}
+img{ display:inline; }
+body{
+	margin: 0 aut0;
+}
+h2{
+	text-align:center;
+}
+
+	background-color: yellow;
+}
+
+}
+
+}
+
+}
+.card{
+	overflow:auto;
+}
+
+.cont{
+	float:left;
+}
+.one{
+	width:650px;
+	padding:20px;
+}
+.two{
+	width:650px;
+	padding:20px;
+}
+.three{
+	width:300px;
+	padding:10px;
+	}
+.four{
+	width:300px;
+	padding:10px;
+}
+.card1{
+	overflow:auto; 
+}
+.leftcolumn1{
+	float:left;
+	width:50%;
+}
